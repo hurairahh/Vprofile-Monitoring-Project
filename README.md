@@ -1,4 +1,4 @@
-# VProfile Project: Monitoring & Observability Stack
+# VProfile Project: Monitoring & Observability Stack 
 
 This repository contains the provisioning scripts, application codebase, and configuration templates to deploy a robust, end-to-end monitoring and observability infrastructure. It leverages the **L-A-P-G** stack (**Loki**, **Alloy**, **Prometheus**, and **Grafana**) to collect, store, and visualize metrics and logs from a live web application environment.
 
